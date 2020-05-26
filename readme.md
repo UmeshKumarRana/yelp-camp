@@ -1,5 +1,26 @@
 #YelpCamp
 
+##alphaFlamingo
+
+* This application is about the capmgrounds.
+* This is made using HTML, CSS, Javascript, NodeJS, Express and mongo database.
+* For styling the pages, Bootstrap 3 is used.
+* For icons, font awesome icons are used.
+* The various packages used in making the app can be found in package.json file(inside dependecies section).
+* seeds.js file is added so each time you run the app, everything you added later through the web page will be removed and you will only see the campgrounds that are created by the seed file each time. So take care of it.
+
+
+##For running the app in the development mode:
+
+*Use "node app.js" in terminal and open http://localhost:3000 to view it in the browser.
+*If you use "nodemon" to run the app then the server will restart automatically if you make edits and then save.
+
+##Note:
+* This app is also hosted online on Heroku.
+* To view the app enter the url https://aqueous-sea-65338.herokuapp.com in the browser.
+
+##The Various Steps Involved in making the app are:
+
 ##Initial Setup
 * Adding Landing Page that lists all campgrounds
 *Add Campgrounds Page that lists all campgrounds
@@ -137,6 +158,8 @@ Comment Destroy Route: /campgrounds/:id/comments/:comment_id
 * Demo working version
 * Install and configure connect-flash
 * Add bootstrap alerts to header
+
+##styling the landing page
 
 INDEX   /campgrounds
 NEW     /campgrounds/new
