@@ -160,6 +160,8 @@ Comment Destroy Route: /campgrounds/:id/comments/:comment_id
 * Add bootstrap alerts to header
 
 ##styling the landing page
+  * Add slideshow of images
+  * Do the animations using keyframes
 
 INDEX   /campgrounds
 NEW     /campgrounds/new
