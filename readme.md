@@ -112,7 +112,7 @@ Each Campground has:
 * User can only delete his/her campgrounds
 * Hide/Show edit and delete buttons
 
-##Eiting Comments
+##Edting Comments
 * Add Edit route for comments
 * Add Edit button
 * Add Update route
